@@ -70,7 +70,7 @@ You will need to download processing version 3.x.
 
 [Click here to download Processing](https://processing.org/download/)
 
-To play the Android Mode or Scan color you will also need to download the android application for you Android 5.0.1 smartphone.
+To play the Android Mode or Scan color you will also need to download the android application for your Android 5.0.1 smartphone.
 
 [Click here to download the android app](http://www.wandoujia.com/apps/com.onlylemi.android.capture)
 
@@ -93,7 +93,10 @@ On the pc click on Android Mode. Now you can play by using your smartphone like 
 
 For color scan, select the color recognition on the android app. Then on the computer select the Color scanner option, this will start a timer until the color is selected, grab your smartphone and point the camera at something with a nice color (e.g. yellow banana), wait for the timer and repeat again two more times, then the game will start using the colors you scanned.
 
-(Not working on Android 6.0)
+```diff
++ (Working on Android 5.0.1)
+- (Not working on Android 6.0)
+```
 
 ## Deployment
 
@@ -117,5 +120,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thanks to @onlylemi [Janbin Qi](https://github.com/onlylemi) for helping me with the android app. 
+* Thanks to [Janbin Qi](https://github.com/onlylemi) @onlylemi for helping me with the android app. 
 * Credits to the [Games for the brain version](https://www.adobe.com/pt/products/photoshop.html?promoid=KLXLS&mv=search&s_kwcid=AL!3085!3!180232924738!b!!g!!adobe%20photoshop%20gr%C3%A1tis&ef_id=WL7ZFwAAACZ40aWn:20170314164153:s)
