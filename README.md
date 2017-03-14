@@ -70,6 +70,10 @@ You will need to download processing version 3.x.
 
 [Click here to download Processing](https://processing.org/download/)
 
+To play the Android Mode or Scan color you will also need to download the android application for you Android 5.0.1 smartphone.
+
+[Click here to download the android app](http://www.wandoujia.com/apps/com.onlylemi.android.capture)
+
 ### Opening the project
 
 Once you have to Processing editor on the left upper corner, click on File>open...>coloredLines.pde
@@ -80,6 +84,17 @@ This will open the game project.
 
 You can run the game by clicking the "Play" button on the processing IDE.
 
+### Instructions for Android Mode & Color scan
+To use your smartphone as a controller open the android capture app on your android smartphone, swipe from left to right (on the left edge of the screen), this will show you a list of settings, press Setting IP, here you will put your PC IP address (They need to be connected to the same network).
+
+After establishing the connection, turn on the phone accelerometer and proximity sensor. Your smartphone is now ready to be used as a controller!
+
+On the pc click on Android Mode. Now you can play by using your smartphone like a laser pointer at the computer screen. To select a ball place your thumb over the proximity sensor, like a button, then select an empty space using the same method.
+
+For color scan, select the color recognition on the android app. Then on the computer select the Color scanner option, this will start a timer until the color is selected, grab your smartphone and point the camera at something with a nice color (e.g. yellow banana), wait for the timer and repeat again two more times, then the game will start using the colors you scanned.
+
+(Not working on Android 6.0)
+
 ## Deployment
 
 Export the application and make an executable file. On the left upper corner, click on File>Export application...
@@ -87,6 +102,7 @@ Export the application and make an executable file. On the left upper corner, cl
 ## Built With
 
 * [Processing 3.3](https://processing.org/download/) - The IDE used.
+* [AndroidCapture](https://github.com/onlylemi/processing-android-capture) - The Processing Android library.
 * [Adobe photoshop](https://www.adobe.com/pt/products/photoshop.html?promoid=KLXLS&mv=search&s_kwcid=AL!3085!3!180232924738!b!!g!!adobe%20photoshop%20gr%C3%A1tis&ef_id=WL7ZFwAAACZ40aWn:20170314164153:s) - The artwork editor.
 
 ## Authors
@@ -101,5 +117,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thanks to AndroidCapture: http://www.wandoujia.com/apps/com.onlylemi.android.capture
+* Thanks to @onlylemi [Janbin Qi](https://github.com/onlylemi) for helping me with the android app. 
 * Credits to the [Games for the brain version](https://www.adobe.com/pt/products/photoshop.html?promoid=KLXLS&mv=search&s_kwcid=AL!3085!3!180232924738!b!!g!!adobe%20photoshop%20gr%C3%A1tis&ef_id=WL7ZFwAAACZ40aWn:20170314164153:s)
