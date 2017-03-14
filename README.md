@@ -89,10 +89,6 @@ Export the application and make an executable file. On the left upper corner, cl
 * [Processing 3.3](https://processing.org/download/) - The IDE used.
 * [Adobe photoshop](https://www.adobe.com/pt/products/photoshop.html?promoid=KLXLS&mv=search&s_kwcid=AL!3085!3!180232924738!b!!g!!adobe%20photoshop%20gr%C3%A1tis&ef_id=WL7ZFwAAACZ40aWn:20170314164153:s) - The artwork editor.
 
-## API Reference
-
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
-
 ## Authors
 
 * **Ricardo Reais** - *Initial work* - [My profile](https://github.com/ricardoreais)
@@ -105,4 +101,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
+* Thanks to AndroidCapture: http://www.wandoujia.com/apps/com.onlylemi.android.capture
 * Credits to the [Games for the brain version](https://www.adobe.com/pt/products/photoshop.html?promoid=KLXLS&mv=search&s_kwcid=AL!3085!3!180232924738!b!!g!!adobe%20photoshop%20gr%C3%A1tis&ef_id=WL7ZFwAAACZ40aWn:20170314164153:s)
