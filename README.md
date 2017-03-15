@@ -121,4 +121,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 * Thanks to [Janbin Qi](https://github.com/onlylemi) @onlylemi for helping me with the android app. 
-* Credits to the [Games for the brain version](https://www.adobe.com/pt/products/photoshop.html?promoid=KLXLS&mv=search&s_kwcid=AL!3085!3!180232924738!b!!g!!adobe%20photoshop%20gr%C3%A1tis&ef_id=WL7ZFwAAACZ40aWn:20170314164153:s)
+* Credits to the [Games for the brain version](http://www.gamesforthebrain.com/game/colorlines/)
