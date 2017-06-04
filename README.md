@@ -12,7 +12,7 @@ Custom features:
 
 * The player can choose between three board sizes (16x20, 8x10 or 4x5).
 * The player can choose the number of colors (3, 6 or 9).
-* The player can start the game with pre-set occupied squares, by choosing the dificulty (medium or hard).
+* The player can start the game with pre-set occupied squares, by choosing the difficulty (medium or hard).
 * The player can choose Android Mode, and use a smartphone as a controller, see more info below.
 * The player can choose Color Scanner, use a smartphone camera to scan real life colors (e.g. yellow banana) and use them in-game, see more info below.
 
